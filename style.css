@@ -359,5 +359,36 @@ h3 {
     }    
 }
 
+/* Footer styles */
+.footer {
+    width: 100%;
+    text-align: center;
+    padding: 30px 0;
+}
+
+.footer h4 {
+    margin-bottom: 15px;
+    margin-top: 20px;
+    font-weight: 600;
+}
+
+.icons .fab {
+    color: #f44336;
+    margin: 0 13px;
+    cursor: pointer;
+    padding: 18px 0;
+}
+
+p .far {
+    color: #f44336;
+}
+
+/* ---------About Us page styles------ */
+.sub-header {
+    height: 50vh;
+    width: 100%;
+    background-image: linear-gradient(rgba(4, 9, 30, 0.7), rgba(4, 9, 30, 0.7)), url(images/background.jpg);
+}
+
 
 
